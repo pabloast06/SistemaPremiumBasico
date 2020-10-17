@@ -1,0 +1,20 @@
+{
+  "name": "premium",
+  "version": "1.0.0",
+  "description": "prueba premium",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "premium",
+    "chiqui",
+    "Bot"
+  ],
+  "author": "Yo",
+  "license": "ITL",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
